@@ -16,7 +16,7 @@
    id="svg4227"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="CB-Geo_Banner.svg">
+   sodipodi:docname="CB-Geo_Banner_text.svg">
   <defs
      id="defs4229">
     <inkscape:path-effect
@@ -107,9 +107,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.4809077"
-     inkscape:cx="242.61821"
-     inkscape:cy="69.198008"
+     inkscape:zoom="3.8472616"
+     inkscape:cx="3.7029644"
+     inkscape:cy="407.92367"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -131,6 +131,10 @@
        id="grid4930"
        originx="1.6014085"
        originy="7.7738032" />
+    <sodipodi:guide
+       position="207.94013,417.95963"
+       orientation="0,1"
+       id="guide4308" />
   </sodipodi:namedview>
   <metadata
      id="metadata4232">
@@ -140,7 +144,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -159,7 +163,7 @@
        height="831.25"
        width="2632.5"
        clip-path="url(#clipPath4392)"
-       transform="matrix(0.7062478,0,0,0.87507834,-58.853562,96.877177)" />
+       transform="matrix(0.70678478,0,0,0.87734707,-59.775751,96.546248)" />
     <image
        y="267.6326"
        x="-407.14285"
@@ -609,5 +613,44 @@
        cx="267.76404"
        cy="571.85236"
        r="9.0298471" />
+    <g
+       id="g4297"
+       transform="matrix(0.25000002,0,0,0.25000002,-177.63619,228.92412)">
+      <circle
+         r="294.08081"
+         cy="317.14233"
+         cx="200.39223"
+         id="path6539"
+         style="opacity:1;fill:#00ccff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:11.83836174;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text6535"
+         y="360.47906"
+         x="-52.944382"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan6545"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:125px;font-family:MathJax_Main;-inkscape-font-specification:'MathJax_Main Bold';fill:#ffffff"
+           y="360.47906"
+           x="-52.944382"
+           sodipodi:role="line">CB-Geo</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:Times;-inkscape-font-specification:Times;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-21.064016"
+       y="288.34082"
+       id="text4302"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4304"
+         x="-21.064016"
+         y="288.34082"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.00008011px;font-family:MathJax_Main;-inkscape-font-specification:'MathJax_Main Bold';fill:#ffffff">Cambridge - Berkeley </tspan><tspan
+         sodipodi:role="line"
+         x="-21.064016"
+         y="350.84091"
+         id="tspan4306"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.00008011px;font-family:MathJax_Main;-inkscape-font-specification:'MathJax_Main Bold';fill:#ffffff">Computational Geomechanics Research Group</tspan></text>
   </g>
 </svg>
