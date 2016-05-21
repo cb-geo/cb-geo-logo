@@ -99,53 +99,6 @@
          x="-222.23784"
          y="145.86505" />
     </clipPath>
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5750-2-0-6"
-       id="radialGradient5760"
-       cx="326.46579"
-       cy="310.89087"
-       fx="326.46579"
-       fy="310.89087"
-       r="55.17421"
-       gradientTransform="matrix(-0.84993125,-0.53224147,0.60621183,-0.98071931,361.16753,803.24628)"
-       gradientUnits="userSpaceOnUse"
-       spreadMethod="pad" />
-    <linearGradient
-       id="linearGradient5750-2-0-6"
-       inkscape:collect="always">
-      <stop
-         style="stop-color:#fcb326;stop-opacity:0;"
-         offset="0"
-         id="stop5811" />
-      <stop
-         style="stop-color:#fcb326;stop-opacity:1;"
-         offset="1"
-         id="stop5813" />
-    </linearGradient>
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5766"
-       id="radialGradient5772"
-       cx="346.0051"
-       cy="338.62622"
-       fx="346.0051"
-       fy="338.62622"
-       r="60"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.36214278,0.00243931,-0.00284025,0.42166739,-258.1306,174.74102)" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient5766">
-      <stop
-         id="stop5770"
-         offset="0"
-         style="stop-color:#5d296e;stop-opacity:0;" />
-      <stop
-         id="stop5768"
-         offset="1"
-         style="stop-color:#5d296e;stop-opacity:1;" />
-    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -154,9 +107,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.4169128"
-     inkscape:cx="634.07336"
-     inkscape:cy="251.13192"
+     inkscape:zoom="3.8472616"
+     inkscape:cx="3.7029644"
+     inkscape:cy="407.92367"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -166,10 +119,10 @@
      fit-margin-bottom="0"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="3840"
-     inkscape:window-height="2038"
+     inkscape:window-width="1600"
+     inkscape:window-height="836"
      inkscape:window-x="0"
-     inkscape:window-y="48"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:snap-to-guides="false"
      inkscape:snap-grids="false">
@@ -182,10 +135,6 @@
        position="207.94013,417.95963"
        orientation="0,1"
        id="guide4308" />
-    <sodipodi:guide
-       position="86.295152,333.22404"
-       orientation="1,0"
-       id="guide4240" />
   </sodipodi:namedview>
   <metadata
      id="metadata4232">
@@ -664,6 +613,28 @@
        cx="267.76404"
        cy="571.85236"
        r="9.0298471" />
+    <g
+       id="g4297"
+       transform="matrix(0.25000002,0,0,0.25000002,-177.63619,228.92412)">
+      <circle
+         r="294.08081"
+         cy="317.14233"
+         cx="200.39223"
+         id="path6539"
+         style="opacity:1;fill:#00ccff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:11.83836174;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text6535"
+         y="360.47906"
+         x="-52.944382"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:MathJax_Main;-inkscape-font-specification:MathJax_Main;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan6545"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:125px;font-family:MathJax_Main;-inkscape-font-specification:'MathJax_Main Bold';fill:#ffffff"
+           y="360.47906"
+           x="-52.944382"
+           sodipodi:role="line">CB-Geo</tspan></text>
+    </g>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:Times;-inkscape-font-specification:Times;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -681,46 +652,5 @@
          y="350.84091"
          id="tspan4306"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.00008011px;font-family:MathJax_Main;-inkscape-font-specification:'MathJax_Main Bold';fill:#ffffff">Computational Geomechanics Research Group</tspan></text>
-    <circle
-       style="fill:#d7eef4;fill-opacity:1;fill-rule:nonzero;stroke:#1b3e6f;stroke-width:3.00000027;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="path4211"
-       cx="-126.59746"
-       cy="309.86835"
-       r="74.185768" />
-    <path
-       sodipodi:type="star"
-       style="fill:url(#radialGradient5760);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
-       id="path4170-9"
-       sodipodi:sides="9"
-       sodipodi:cx="302.81604"
-       sodipodi:cy="320.65054"
-       sodipodi:r1="57.375843"
-       sodipodi:r2="46.200287"
-       sodipodi:arg1="0.50783085"
-       sodipodi:arg2="0.8568967"
-       inkscape:flatsided="true"
-       inkscape:rounded="0"
-       inkscape:randomized="0"
-       d="m 352.95113,348.55144 -29.66373,25.69865 -39.24251,0.61882 -30.45928,-24.75055 -7.42381,-38.53887 19.08533,-34.29442 36.66425,-14.00324 37.08755,12.84023 20.15717,33.67559 z"
-       inkscape:transform-center-x="-1.823774"
-       inkscape:transform-center-y="0.12618355"
-       transform="matrix(0.37912235,-0.46051007,-0.44841849,-0.37150435,-72.283786,547.9355)" />
-    <circle
-       style="fill:url(#radialGradient5772);fill-opacity:1;stroke:none;stroke-width:1.26746166;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
-       id="path4136-4"
-       cx="-151.75444"
-       cy="330.22733"
-       r="32.569595" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:16.28479576px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-145.13882"
-       y="227.26625"
-       id="text5880"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan5882"
-         x="-145.13882"
-         y="227.26625" /></text>
   </g>
 </svg>

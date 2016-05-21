@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="122.95129mm"
+   height="55.572044mm"
+   viewBox="0 0 435.65413 196.90882"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="cb-geo-text.svg"
+   inkscape:export-filename="/home/krishna/devel/cb-geo/cb-geo-text.svg.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient5750-2-0-6"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#fcb326;stop-opacity:0;"
+         offset="0"
+         id="stop5811" />
+      <stop
+         style="stop-color:#fcb326;stop-opacity:1;"
+         offset="1"
+         id="stop5813" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5766">
+      <stop
+         id="stop5770"
+         offset="0"
+         style="stop-color:#5d296e;stop-opacity:0;" />
+      <stop
+         id="stop5768"
+         offset="1"
+         style="stop-color:#5d296e;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5690"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#0000ff;stop-opacity:1;"
+         offset="0"
+         id="stop5692" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5750-2-0-6"
+       id="radialGradient5760"
+       cx="326.46579"
+       cy="310.89087"
+       fx="326.46579"
+       fy="310.89087"
+       r="55.17421"
+       gradientTransform="matrix(-0.84993125,-0.53224147,0.60621183,-0.98071931,361.16753,803.24628)"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="pad" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5766"
+       id="radialGradient5772"
+       cx="346.0051"
+       cy="338.62622"
+       fx="346.0051"
+       fy="338.62622"
+       r="60"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.66714266,0.00449371,-0.00523232,0.77679939,85.92214,161.90443)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.5097272"
+     inkscape:cx="199.60014"
+     inkscape:cy="90.012641"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:window-width="3840"
+     inkscape:window-height="2038"
+     inkscape:window-x="0"
+     inkscape:window-y="48"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="60.104523,75.84874"
+       orientation="1,0"
+       id="guide5849" />
+    <sodipodi:guide
+       position="86.380308,59.891785"
+       orientation="0,1"
+       id="guide5851" />
+    <sodipodi:guide
+       position="154.25054,133.50653"
+       orientation="1,0"
+       id="guide5853" />
+    <sodipodi:guide
+       position="120.4218,135.42137"
+       orientation="0,1"
+       id="guide5855" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-221.88924,-311.43386)">
+    <path
+       sodipodi:type="star"
+       style="fill:url(#radialGradient5760);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4170-9"
+       sodipodi:sides="9"
+       sodipodi:cx="302.81604"
+       sodipodi:cy="320.65054"
+       sodipodi:r1="57.375843"
+       sodipodi:r2="46.200287"
+       sodipodi:arg1="0.50783085"
+       sodipodi:arg2="0.8568967"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 352.95113,348.55144 -29.66373,25.69865 -39.24251,0.61882 -30.45928,-24.75055 -7.42381,-38.53887 19.08533,-34.29442 36.66425,-14.00324 37.08755,12.84023 20.15717,33.67559 z"
+       inkscape:transform-center-x="-3.3597752"
+       inkscape:transform-center-y="0.23246085"
+       transform="matrix(0.69842258,-0.84835572,-0.82608054,-0.68438859,428.29079,849.4066)" />
+    <circle
+       style="fill:url(#radialGradient5772);fill-opacity:1;stroke:none;stroke-width:1.26746166;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4136-4"
+       cx="281.88922"
+       cy="448.34268"
+       r="60" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:30px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ed4e33;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="337.15213"
+       y="504.87341"
+       id="text5845"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="337.15213"
+         y="504.87341"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:80px;font-family:MathJax_Main;-inkscape-font-specification:'MathJax_Main Bold';fill:#1b3e6f;fill-opacity:1"
+         id="tspan5857">CB-Geo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:30px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="236.13739"
+       y="306.07169"
+       id="text5880"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5882"
+         x="236.13739"
+         y="306.07169" /></text>
+  </g>
+</svg>
