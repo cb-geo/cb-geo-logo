@@ -11,21 +11,23 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="60.69669mm"
+   width="123.0924mm"
    height="55.572044mm"
-   viewBox="0 0 215.06699 196.90882"
+   viewBox="0 0 436.15414 196.90882"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="cb-geo-berkeley-border.svg"
-   shape-rendering="crispEdges">
+   sodipodi:docname="cb-geo-text-white-border.svg"
+   inkscape:export-filename="/home/krishna/devel/cb-geo/cb-geo-text-white.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4">
     <linearGradient
        id="linearGradient5750-2-0-6"
        inkscape:collect="always">
       <stop
-         style="stop-color:#fcb326;stop-opacity:0;"
+         style="stop-color:#ffffff;stop-opacity:1"
          offset="0"
          id="stop5811" />
       <stop
@@ -39,7 +41,7 @@
       <stop
          id="stop5770"
          offset="0"
-         style="stop-color:#5d296e;stop-opacity:0;" />
+         style="stop-color:#ffffff;stop-opacity:1" />
       <stop
          id="stop5768"
          offset="1"
@@ -62,7 +64,7 @@
        fx="326.46579"
        fy="310.89087"
        r="55.17421"
-       gradientTransform="matrix(-0.84993125,-0.53224147,0.60621183,-0.98071931,361.16753,803.24628)"
+       gradientTransform="matrix(-0.62319561,-0.40292985,0.37760279,-0.60224872,358.21857,643.36741)"
        gradientUnits="userSpaceOnUse"
        spreadMethod="pad" />
     <radialGradient
@@ -82,11 +84,11 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="0"
-     inkscape:pageopacity="1"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="257.63147"
-     inkscape:cy="63.67413"
+     inkscape:zoom="7.5097272"
+     inkscape:cx="170.70429"
+     inkscape:cy="90.145805"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -100,32 +102,23 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:guide-bbox="true"
-     borderlayer="false">
+     inkscape:guide-bbox="true">
     <sodipodi:guide
-       position="60.104514,75.848739"
+       position="60.104528,75.848743"
        orientation="1,0"
        id="guide5849" />
     <sodipodi:guide
-       position="86.380296,59.891784"
+       position="86.380314,59.891788"
        orientation="0,1"
        id="guide5851" />
     <sodipodi:guide
-       position="154.25053,133.50653"
+       position="154.25055,133.50653"
        orientation="1,0"
        id="guide5853" />
     <sodipodi:guide
-       position="120.42178,135.42137"
+       position="120.42181,135.42137"
        orientation="0,1"
        id="guide5855" />
-    <sodipodi:guide
-       position="107.12666,-39.597981"
-       orientation="1,0"
-       id="guide4213" />
-    <sodipodi:guide
-       position="270.82186,98.287846"
-       orientation="0,1"
-       id="guide4215" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -144,12 +137,6 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-221.88924,-311.43386)">
-    <circle
-       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#1b3e6f;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="path4211"
-       cx="328.23364"
-       cy="410.8371"
-       r="136.66566" />
     <path
        sodipodi:type="star"
        style="fill:url(#radialGradient5760);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
@@ -174,6 +161,21 @@
        cx="281.88922"
        cy="448.34268"
        r="60" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:30px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ed4e33;fill-opacity:1;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="337.15213"
+       y="504.87341"
+       id="text5845"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/krishna/devel/cb-geo/text5845.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="337.15213"
+         y="504.87341"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:80px;font-family:MathJax_Main;-inkscape-font-specification:'MathJax_Main Bold';fill:#1b3e6f;fill-opacity:1;stroke:#ffffff"
+         id="tspan5857">CB-Geo</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:30px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"

@@ -18,33 +18,12 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="cb-geo.svg"
-   shape-rendering="crispEdges">
+   shape-rendering="crispEdges"
+   inkscape:export-filename="/home/krishna/devel/cb-geo/cb-geo-logo/cb-geo.svg.png"
+   inkscape:export-xdpi="200.87"
+   inkscape:export-ydpi="200.87">
   <defs
      id="defs4">
-    <linearGradient
-       id="linearGradient5750-2-0-6"
-       inkscape:collect="always">
-      <stop
-         style="stop-color:#fcb326;stop-opacity:0;"
-         offset="0"
-         id="stop5811" />
-      <stop
-         style="stop-color:#fcb326;stop-opacity:1;"
-         offset="1"
-         id="stop5813" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient5766">
-      <stop
-         id="stop5770"
-         offset="0"
-         style="stop-color:#5d296e;stop-opacity:0;" />
-      <stop
-         id="stop5768"
-         offset="1"
-         style="stop-color:#5d296e;stop-opacity:1;" />
-    </linearGradient>
     <linearGradient
        id="linearGradient5690"
        osb:paint="solid">
@@ -62,9 +41,21 @@
        fx="326.46579"
        fy="310.89087"
        r="55.17421"
-       gradientTransform="matrix(-0.84993125,-0.53224147,0.60621183,-0.98071931,361.16753,803.24628)"
+       gradientTransform="matrix(-0.62319561,-0.40292985,0.37760279,-0.60224872,358.21857,643.36741)"
        gradientUnits="userSpaceOnUse"
        spreadMethod="pad" />
+    <linearGradient
+       id="linearGradient5750-2-0-6"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0"
+         id="stop5811" />
+      <stop
+         style="stop-color:#fcb326;stop-opacity:1;"
+         offset="1"
+         id="stop5813" />
+    </linearGradient>
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5766"
@@ -75,17 +66,29 @@
        fy="338.62622"
        r="60"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.66714266,0.00449371,-0.00523232,0.77679939,85.92214,161.90443)" />
+       gradientTransform="matrix(0.66714266,0.00449371,-0.00523232,0.77679939,87.636635,161.01033)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5766">
+      <stop
+         id="stop5770"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1" />
+      <stop
+         id="stop5768"
+         offset="1"
+         style="stop-color:#5d296e;stop-opacity:1;" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="0"
-     inkscape:pageopacity="1"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8284271"
-     inkscape:cx="257.63147"
+     inkscape:cx="67.773293"
      inkscape:cy="63.67413"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -118,6 +121,14 @@
        position="120.42178,135.42137"
        orientation="0,1"
        id="guide5855" />
+    <sodipodi:guide
+       position="106.77311,98.994954"
+       orientation="0,1"
+       id="guide4169" />
+    <sodipodi:guide
+       position="108.18733,207.1823"
+       orientation="1,0"
+       id="guide4171" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -153,23 +164,12 @@
        d="m 352.95113,348.55144 -29.66373,25.69865 -39.24251,0.61882 -30.45928,-24.75055 -7.42381,-38.53887 19.08533,-34.29442 36.66425,-14.00324 37.08755,12.84023 20.15717,33.67559 z"
        inkscape:transform-center-x="-3.3597752"
        inkscape:transform-center-y="0.23246085"
-       transform="matrix(0.69842258,-0.84835572,-0.82608054,-0.68438859,428.29079,849.4066)" />
+       transform="matrix(0.69842258,-0.84835572,-0.82608054,-0.68438859,430.00529,848.5125)" />
     <circle
        style="fill:url(#radialGradient5772);fill-opacity:1;stroke:none;stroke-width:1.26746166;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
        id="path4136-4"
-       cx="281.88922"
-       cy="448.34268"
+       cx="283.60373"
+       cy="447.44855"
        r="60" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:30px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="236.13739"
-       y="306.07169"
-       id="text5880"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan5882"
-         x="236.13739"
-         y="306.07169" /></text>
   </g>
 </svg>
