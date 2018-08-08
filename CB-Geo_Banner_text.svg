@@ -15,8 +15,11 @@
    viewBox="0 0 1367.447 502.26384"
    id="svg4227"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="CB-Geo_Banner_text.svg">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="CB-Geo_Banner_text.svg"
+   inkscape:export-filename="/home/krishna/devel/cb-geo/cb-geo-logo/CB-Geo_Banner_text.svg.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
   <defs
      id="defs4229">
     <inkscape:path-effect
@@ -155,7 +158,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.4169128"
-     inkscape:cx="560.01194"
+     inkscape:cx="765.85304"
      inkscape:cy="251.13192"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -167,9 +170,9 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="3840"
-     inkscape:window-height="2038"
+     inkscape:window-height="2031"
      inkscape:window-x="0"
-     inkscape:window-y="48"
+     inkscape:window-y="55"
      inkscape:window-maximized="1"
      inkscape:snap-to-guides="false"
      inkscape:snap-grids="false">
@@ -181,11 +184,13 @@
     <sodipodi:guide
        position="207.94013,417.95963"
        orientation="0,1"
-       id="guide4308" />
+       id="guide4308"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="86.295152,333.22404"
        orientation="1,0"
-       id="guide4240" />
+       id="guide4240"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata4232">
@@ -666,32 +671,31 @@
        r="9.0298471" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:Times;-inkscape-font-specification:Times;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Times;-inkscape-font-specification:Times;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-21.064016"
        y="288.34082"
-       id="text4302"
-       sodipodi:linespacing="125%"><tspan
+       id="text4302"><tspan
          sodipodi:role="line"
          id="tspan4304"
          x="-21.064016"
          y="288.34082"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.00008011px;font-family:MathJax_Main;-inkscape-font-specification:'MathJax_Main Bold';fill:#ffffff">Cambridge - Berkeley </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.00008011px;line-height:1.25;font-family:MathJax_Main;-inkscape-font-specification:'MathJax_Main Bold';fill:#ffffff">CB-Geo</tspan><tspan
          sodipodi:role="line"
          x="-21.064016"
          y="350.84091"
          id="tspan4306"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.00008011px;font-family:MathJax_Main;-inkscape-font-specification:'MathJax_Main Bold';fill:#ffffff">Computational Geomechanics Research Group</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.00008011px;line-height:1.25;font-family:MathJax_Main;-inkscape-font-specification:'MathJax_Main Bold';fill:#ffffff">Computational Geomechanics Research Group</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:16.28479576px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-145.13882"
        y="227.26625"
-       id="text5880"
-       sodipodi:linespacing="125%"><tspan
+       id="text5880"><tspan
          sodipodi:role="line"
          id="tspan5882"
          x="-145.13882"
-         y="227.26625" /></text>
+         y="227.26625"
+         style="font-size:16.28479576px;line-height:1.25"> </tspan></text>
     <path
        sodipodi:type="star"
        style="fill:url(#radialGradient5760-7);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
